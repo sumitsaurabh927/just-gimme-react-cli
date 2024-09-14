@@ -36,7 +36,7 @@ just-gimme-react <project-name>
 ```
 ## Contributing
 
-Contributions are welcome! If you have any ideas or improvements, please [open an issue or submit a pull request](https://github.com/sumitsaurabh927/just-gimme-react-cli).
+Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request [on the CLI repo](https://github.com/sumitsaurabh927/just-gimme-react-cli) or the [project repo](https://github.com/sumitsaurabh927/just-gimme-react-template).
 
 
 
