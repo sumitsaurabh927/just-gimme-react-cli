@@ -1,6 +1,6 @@
 {
   "name": "just-gimme-react",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "bin": {
     "just-gimme-react": "index.js"
