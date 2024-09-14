@@ -1,6 +1,8 @@
 # just-gimme-react
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+---
 `just-gimme-react` is a CLI tool to quickly create new React projects with ease. If you get tired of having to do a bunch of menial tasks everytime you have an idea for a new project, this might just be for you!
 
 - This is built on top of [Vite](https://vitejs.dev/guide/)
